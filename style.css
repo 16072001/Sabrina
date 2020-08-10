@@ -1,0 +1,21 @@
+h1 {color: rgb(2, 2, 2);
+}
+.entete { background: url(image/22.jpg);
+outline-style: outset;
+}
+.navigation {float: right;
+    display: block;
+    padding: 10px;
+    background-color: gray;
+    background: url(image/22.jpg);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    height: 200px;
+    width: 59%;
+    outline-style: outset;
+}
+    .pagecourante {background: url(image/22.jpg) ;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+outline-style: outset;}
+    .piedsdepage {background: url(image/22.jpg);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+outline-style: outset;}
